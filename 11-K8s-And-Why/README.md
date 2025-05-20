@@ -71,7 +71,7 @@ Kubernetes provides an automated solution for:
 - **Kubelet**: Manages containers on the node
 - **Kube Proxy**: Handles network routing
 - **Container Runtime**: Runs containers (Docker, containerd)
-
+![alt text](image.png)
 ## Core Concepts
 
 ### 1. Pods
@@ -160,3 +160,9 @@ spec:
     requests:
       storage: 1Gi
 ```
+
+## More Detail 
+See 
+<!-- # add Cheat-Sheet-Kube.pdf -->
+[CheatSheet](Cheat-Sheet-Kubernetes.pdf) 
+[Course resource](slides-kubernetes-intro.pdf) 
